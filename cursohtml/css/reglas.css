@@ -1,0 +1,28 @@
+#miTitulo{
+color: #F20B0B;
+font-size: 700.00%;
+}
+
+#seccion1{
+	 border: red 5px dotted;
+}
+#seccion2{
+	border: red 5px double;
+}
+p{
+	 border: green 5px outset;
+
+}
+.colorLetra{
+	color: red ;
+}
+.table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+}
